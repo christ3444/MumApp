@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MumApp</string>
+    <string-array name="spinner_item">
+        <item>biscuit</item>
+        <item>jus</item>
+        <item>bonbon</item>
+        <item>boisson</item>
+
+    </string-array>
+</resources>
